@@ -2,20 +2,20 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-# Hey, I'm JOSHUA MAZAZA!
+ Hey, I'm JOSHUA MAZAZA!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software%20Engineering%20Student%20;Diving%20into%20Full-Stack%20Web%20Applications%20;Based%20in%20Ndola%2C%20Zambia.)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a third-year Software Engineering student at Zambia University of Technology, passionate about crafting full-stack applications that solve real-world problems. With a solid foundation in TypeScript, Next.js, and more, I'm eager to bring my skills to an internship where I can learn and contribute to innovative projects.
 
-- 🏢 Working at **Zambia University of Technology (ZUT)** in **Ndola, Zambia**
-- 🌱 Currently learning **Diving into Full-stack web development, Software Engineering Management and exploring Software Engineering Testing to broaden my expertise.**
+-  Working at **Zambia University of Technology (ZUT)** in **Ndola, Zambia**
+-  Currently learning **Diving into Full-stack web development, Software Engineering Management and exploring Software Engineering Testing to broaden my expertise.**
 - 💬 Ask me about **Full-stack development, software engineering processes and JavaScript frameworks.**
-- ⚡ Huge Tottenham Hotspur fan🤍
+-  Huge Tottenham Hotspur fan🤍
 
 ## 🛠️ Tech Stack
 
