@@ -10,7 +10,7 @@
 
 ##  About Me
 
-I'm a third-year Software Engineering student at Zambia University of Technology, passionate about crafting full-stack applications that solve real-world problems. With a solid foundation in TypeScript, Next.js, and more, I'm eager to bring my skills to an internship where I can learn and contribute to innovative projects.
+I'm a third-year Software Engineering student at Zambia University of Technology, passionate about crafting full-stack applications that solve real-world problems. With a solid foundation in TypeScript, Next.js and more, I'm eager to bring my skills to an internship where I can learn and contribute to innovative projects.
 
 -  Currently a Student at **Zambia University of Technology (ZUT)** in **Ndola, Zambia**
 -  Learning **And Diving into Mobile App Development, Advanced Database Systems and exploring Object Oriented programming to broaden my expertise.**
