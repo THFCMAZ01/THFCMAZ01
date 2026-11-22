@@ -50,6 +50,15 @@ A few projects I've worked on or am currently developing:
 
 Most of my projects are learning exercises or works in progress. I'm still improving my approach to software design, testing, security, and deployment as I build.
 
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THFCMAZ01&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub account statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THFCMAZ01&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used languages in public repositories" />
+</div>
+
+<sub>These cards are generated from GitHub data. Language usage reflects code in public repositories, not skill level, and may not include contributions made in other people's repositories.</sub>
+
 ## Currently
 
 - Studying Software Engineering at ZUT.
