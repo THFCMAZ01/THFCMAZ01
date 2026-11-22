@@ -35,6 +35,8 @@ Most of my projects are learning exercises or works in progress. I'm still impro
 
 I'm a Tottenham Hotspur supporter.
 
+[![Tottenham Hotspur](https://img.shields.io/badge/Tottenham_Hotspur-Official_Site-132257?style=for-the-badge&logo=tottenhamhotspur&logoColor=white)](https://www.tottenhamhotspur.com/)
+
 ## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THFCMAZ01)
