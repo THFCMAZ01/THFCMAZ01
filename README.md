@@ -16,11 +16,11 @@ I don't consider myself an expert in every tool listed here. These are technolog
 
 ## Projects
 
-A few projects I've worked on:
+A few projects I've worked on or am currently developing:
 
 - **[Zed NRC Validator](https://github.com/THFCMAZ01/zed-nrc-validator)** — A small web utility and API that checks the written format of a Zambian NRC number. It does not verify identity or check against a government registry.
-- **[Chilimba Tracker](https://github.com/THFCMAZ01/Chilimba-Tracker)** — A Java project developed for coursework. It models contributions and payout rotation for a rotating savings group (chilimba).
-- **[ZedJobs Lite](https://github.com/THFCMAZ01/zedjobs-lite)** — A job-board project focused on connecting candidates and recruiters in the Zambian context.
+- **[Chilimba Tracker](https://github.com/THFCMAZ01/Chilimba-Tracker)** — A Java coursework project that models contributions and payout rotation for a rotating savings group (chilimba).
+- **[ZedJobs Lite](https://github.com/THFCMAZ01/zedjobs-lite)** — A job-board project I'm still building, with the aim of supporting candidates and recruiters in the Zambian job market. It is a work in progress, not a finished product.
 
 Most of my projects are learning exercises or works in progress. I'm still improving my approach to software design, testing, security, and deployment as I build.
 
