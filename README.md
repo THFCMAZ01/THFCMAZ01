@@ -55,9 +55,11 @@ Most of my projects are learning exercises or works in progress. I'm still impro
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=THFCMAZ01&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub account statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THFCMAZ01&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used languages in public repositories" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=THFCMAZ01&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak, including current and longest streak" />
 </div>
 
-<sub>These cards are generated from GitHub data. Language usage reflects code in public repositories, not skill level, and may not include contributions made in other people's repositories.</sub>
+<sub>These cards are generated from GitHub data. Language usage reflects code in public repositories, not skill level, and may not include contributions made in other people's repositories. Streaks are based on GitHub contribution activity.</sub>
 
 ## Currently
 
