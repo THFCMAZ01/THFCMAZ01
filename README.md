@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at Zambia University of Technology (ZUT), based in Ndola, Zambia.
 
-I spend most of my time learning by building projects, working through coursework, and figuring out how to turn ideas into software that is useful in everyday situations. I'm particularly interested in full-stack web development and building practical tools for local problems.
+I spend most of my time learning by building projects, working through coursework and figuring out how to turn ideas into software that is useful in everyday situations. I'm particularly interested in full-stack web development and building practical tools for local problems.
 
 ## What I'm learning and using
 
