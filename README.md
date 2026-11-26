@@ -1,22 +1,22 @@
 # Hi, I'm Joshua
 
-**Software Engineering student at Zambia University of Technology (ZUT) · Zambia**
+**Software Engineering student at Zambia University of Technology (ZUT) · Ndola, Zambia**
 
-I'm learning software development by building projects, completing coursework, and improving through practice. I'm particularly interested in full-stack web development and practical software that addresses everyday problems.
+I'm learning software development by building practical projects, completing coursework, and improving through feedback. I'm interested in web development, Android applications, and software that can help solve everyday problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THFCMAZ01)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazazajosh@gmail.com)
 
 ## About Me
 
-- Software Engineering student at ZUT, based in Ndola, Zambia.
-- I learn by building, testing, and improving projects.
-- Interested in web development, mobile applications, databases, and software engineering practices.
-- Currently working towards becoming a stronger, more well-rounded developer.
+- I'm studying Software Engineering at ZUT.
+- Most of my practical experience so far comes from coursework, personal projects, and learning by doing.
+- I enjoy working on web applications, mobile apps, APIs, and database-backed projects.
+- I'm still developing my skills and try to be honest about what I've built, what I've contributed to, and what I'm still learning.
 
 ## Tech Stack
 
-The badges below represent technologies I've worked with through coursework, personal projects, or self-study. They are not intended to represent equal experience or professional proficiency.
+These are technologies I've used or studied through coursework and personal projects. My experience varies across them; the badges are not claims of professional-level proficiency.
 
 **Programming languages**
 
@@ -27,7 +27,7 @@ The badges below represent technologies I've worked with through coursework, per
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend**
+**Frontend development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,56 +37,72 @@ The badges below represent technologies I've worked with through coursework, per
 
 **Backend and databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Javalin](https://img.shields.io/badge/Javalin-333333?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-111111?style=for-the-badge&logo=neon&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Tools**
+**Android development**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Tools and platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ## Selected Projects
 
-A selection of coursework and personal projects. Some are complete, while others are still being improved.
+A few projects that reflect what I've been learning. Some are personal projects, while others were developed as part of a team or coursework.
 
-### [Zed NRC Validator](https://github.com/THFCMAZ01/zed-nrc-validator)
-A web utility and JSON API that checks the written structure of Zambian NRC numbers. It does not verify identity or connect to a government registry.
+### [Zed NRC Validator](https://github.com/THFCMAZ01/zed-nrc-validator) · Personal project
 
-[Live project](https://zed-nrc-validator.vercel.app)
+A small web utility and JSON API that checks the written structure of Zambian NRC numbers. It does **not** verify identity or connect to a government registry. Built with Next.js, React, TypeScript, and Tailwind CSS.
 
-### [Chilimba Tracker](https://github.com/THFCMAZ01/Chilimba-Tracker)
-A Java group coursework project for tracking members, contributions, and rotating payouts in a traditional savings group. Built with Javalin and PostgreSQL.
+[Open the live utility](https://zed-nrc-validator.vercel.app)
 
-[Live demo](https://chilimba-tracker1.onrender.com/)
+### [Chilimba Tracker](https://github.com/THFCMAZ01/Chilimba-Tracker) · Group coursework
 
-### [ToolTrail](https://github.com/THFCMAZ01/ToolTrail)
-An Android application developed for a mobile app development course. It helps small groups keep track of shared equipment, loans, returns, and due-date reminders. Built with Kotlin, Jetpack Compose, Room, and WorkManager.
+A Java application for tracking members, contributions, and rotating payouts in a traditional savings group. I worked as the team's tech lead, focusing on core models and helping coordinate the project. The application uses Javalin and PostgreSQL.
 
-[Watch the demo](https://youtube.com/shorts/ydvuCNZTX4g?feature=share)
+[View the project demo](https://chilimba-tracker1.onrender.com/)
 
-### [Calm World](https://github.com/THFCMAZ01/CalmWorld)
-One of my earlier web projects: a multi-page mindfulness and wellness website built with HTML and CSS. I continue to make improvements to its responsive layout.
+### [ToolTrail](https://github.com/THFCMAZ01/ToolTrail) · Group coursework
 
-[Visit the website](https://thfcmaz01.github.io/CalmWorld/)
+An Android app for groups that lend and manage shared equipment. It supports equipment records, borrowing, returns, loan history, and due-date reminders. I contributed to coordination, code review, and quality assurance. Built with Kotlin, Jetpack Compose, Room, and WorkManager.
 
-### [ZedJobs Lite](https://github.com/THFCMAZ01/zedjobs-lite) · In Development
-A job-board project I'm building for ICT opportunities in Zambia. The current work includes candidate accounts, job listings, and applications; recruiter workflows and other features are still being developed.
+[Watch the demonstration](https://youtube.com/shorts/ydvuCNZTX4g?feature=share)
 
-**More work:** [Multilingual Translation Web App](https://github.com/THFCMAZ01/Multilingual-Translation-Web-App)
+### [Multilingual Translation Web App](https://github.com/THFCMAZ01/Multilingual-Translation-Web-App) · Coursework
+
+A browser-based translator that uses the MyMemory API to translate text between 13 languages. It also includes text-to-speech, language swapping, copy-to-clipboard, and a dark theme. Built with HTML, CSS, and JavaScript.
+
+[Try the web app](https://translation-app1.vercel.app/)
+
+### [ZedJobs Lite](https://github.com/THFCMAZ01/zedjobs-lite) · In development
+
+A job-board project focused on ICT opportunities in Zambia. Current work includes candidate accounts, job listings, and applications. Recruiter application-review features and further improvements are still in progress, so this is not yet a finished project.
+
+### Earlier project
+
+[CalmWorld](https://github.com/THFCMAZ01/CalmWorld) — one of my earlier multi-page websites, built with HTML and CSS. [Visit the site](https://thfcmaz01.github.io/CalmWorld/).
 
 ## What I'm Focused On
 
-- Strengthening my full-stack development fundamentals.
-- Improving my understanding of databases, software design, testing, and application security.
-- Building practical web and mobile applications.
-- Gaining experience through projects and opportunities to learn from other developers.
+- Strengthening my programming and full-stack development fundamentals.
+- Getting better at software design, databases, testing, and application security.
+- Building and improving useful web and mobile applications.
+- Learning from documentation, feedback, collaboration, and practical experience.
 
 ## GitHub Activity
 
