@@ -60,6 +60,7 @@ These are technologies I've used or studied through coursework and personal proj
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3F?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 ## Selected Projects
 
@@ -121,9 +122,3 @@ I'm a Tottenham Hotspur supporter.
 
 [![Tottenham Hotspur](https://img.shields.io/badge/Tottenham_Hotspur-Official_Site-132257?style=for-the-badge&logo=tottenhamhotspur&logoColor=white)](https://www.tottenhamhotspur.com/)
 
----
-
-<p align="center">
-  <a href="https://github.com/THFCMAZ01">GitHub</a> ·
-  <a href="mailto:mazazajosh@gmail.com">Email</a>
-</p>
